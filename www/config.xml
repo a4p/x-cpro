@@ -3,9 +3,9 @@
     xmlns:gap       = "http://phonegap.com/ns/1.0"
     xmlns:cdv       = "http://cordova.apache.org/ns/1.0"
     xmlns:android   = "http://schemas.android.com/apk/res/android"
-    id              = "com.apps4pro.c4p"
-    version         = "1.0" 
-    versionCode     = "1.0" >
+    id              = "com.apps4pro.c4pp"
+    version         = "2" 
+    versionCode     = "2" >
     
     <name>CRM Pad</name>
     <description>CRM Pad</description>
@@ -65,7 +65,7 @@
     <!-- http://docs.build.phonegap.com/en_US/3.3.0/configuring_config_file_element.md.html#Config%20File%20Elements -->
     <!-- C4P_BUILD_CONFIG //TODO??? -->
 
-    <gap:url-scheme name="com.apps4pro.c4pint" role="Editor">
+    <gap:url-scheme name="com.apps4pro.c4pp" role="Editor">
       <scheme>file</scheme>
       <scheme>http</scheme>
     </gap:url-scheme>
