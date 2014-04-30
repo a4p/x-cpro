@@ -4,9 +4,10 @@
     xmlns:cdv       = "http://cordova.apache.org/ns/1.0"
     xmlns:android   = "http://schemas.android.com/apk/res/android"
     id              = "com.apps4pro.c4p"
-    version         = "3" >
+    version         = "14043022" 
+    versionCode     = "C4P_BUILD_DATE" >
     
-    <name>CRM_Pad</name>
+    <name>CRM Pad</name>
     <description>CRM Pad</description>
     <author email="contact@apps4pro.com" href="https://apps4pro.com">Apps4pro Team</author>
 
